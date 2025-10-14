@@ -1,0 +1,13 @@
+Đặc điểm:
+ Trật tự (thứ tự ) của các giai đoạn là xác định, và các kết quả
+của một giai đoạn trước sẽ được sử dụng làm đầu vào (input)
+cho các giai đoạn sau
+ Một khi tiến trình PTPM kết thúc và hệ thống phần mềm được
+bàn giao (signed off) cho khách hàng, thì hệ thống phần mềm
+sẽ không thể được thay đổi, điều chỉnh
+ Tiến trình PTPM chỉ có thể được mở lại (để đáp ứng các điều
+chỉnh, thay đổi) thông qua một quy trình thực hiện thay đổi chính
+thức (a formal change process).
+ Đặc điểm quan trọng nhất của Quy trình thác nước: các giai
+đoạn (phases) không giao nhau, không lặp lại (trong một
+tiến trình PTPM)
